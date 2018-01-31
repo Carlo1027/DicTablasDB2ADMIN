@@ -1,0 +1,1 @@
+# DicTablasDB2ADMIN
